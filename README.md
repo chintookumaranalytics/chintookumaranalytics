@@ -2,7 +2,7 @@
 			
 </div> <br> <div align="center">
 
-| [About](#about) | [Education](#education) | [Projects](#featured-projects) | [Skills](#technical-skills) | [Certification](#certification) | [Activities](#development--activities) | [Statistics](#github-statistics) | [Connect](#connect-with-me) |
+| [About](#about) | [Education](#education) | [Projects](#featured-projects) | [Skills](#technical-skills) | [Certification](#certification) | [Statistics](#github-statistics) | [Activities](#development--activities) | [Connect](#connect-with-me) | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
@@ -228,7 +228,7 @@ I'm continuously learning and building projects in Data Analytics, SQL, Python, 
 
 I'm interested in building practical analytical projects, improving my technical and analytical skills, and collaborating on meaningful projects.
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintoo-kumar-64a3373b5) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumaranalytics) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumardev) | [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintookumaranalytics) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumaranalytics) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumaranalytics) | [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.analytics@gmail.com) |
 | :---: | :---: | :---: | :---: |
 
 <br>
