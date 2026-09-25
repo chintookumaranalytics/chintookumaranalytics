@@ -1,20 +1,26 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Chintoo%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Excel%20%7C%20Power%20BI&descAlignY=55&descSize=16" width="100%"/> </div> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=BCA+Student+%7C+Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Data+Cleaning+%7C+Data+Analysis+%7C+Visualization;Exploratory+Data+Analysis+%7C+Business+Insights;Learning+%7C+Analyzing+%7C+Building" alt="Typing SVG"/> </p> <div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Chintoo%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%20Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Excel%20%7C%20Power%20BI&descAlignY=55&descSize=16" width="100%"/> </div> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=BCA+Student+%7C+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Data+Cleaning+%7C+Data+Analysis+%7C+Visualization;Exploratory+Data+Analysis+%7C+Business+Insights;Learning+%7C+Analyzing+%7C+Building" alt="Typing SVG"/> </p> <div align="center">
 			
 </div> <br> <div align="center">
-About	Education	Projects	Skills	Certification	Activities	Statistics	Connect
+
+| [About](#about) | [Education](#education) | [Projects](#featured-projects) | [Skills](#technical-skills) | [Certification](#certification) | [Activities](#development--activities) | [Statistics](#github-statistics) | [Connect](#connect-with-me) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 </div>
-About
+
+---
+
+## About
 <div align="center">
 
-BCA Student @ Inderprastha Engineering College | Aspiring Data Analyst
+**BCA Student @ Inderprastha Engineering College** | Data Analyst
 
-Turning data into meaningful insights through analysis, visualization, and problem-solving.
+*Turning data into meaningful insights through analysis, visualization, and problem-solving.*
 
 </div> <table> <tr> <td width="60%" valign="top">
 
-Hi, I'm Chintoo Kumar — a BCA student at Inderprastha Engineering College, Ghaziabad, with a strong interest in Data Analytics, SQL, Python, Excel, Power BI, databases, and data visualization.
+Hi, I'm **Chintoo Kumar** — a BCA student at **Inderprastha Engineering College, Ghaziabad**, with a strong interest in Data Analytics, SQL, Python, Excel, Power BI, databases, and data visualization.
 
-I am an Aspiring Data Analyst interested in building a career in Data Analytics and Business Analytics.
+I am **Data Analyst** interested in building a career in Data Analytics and Business Analytics.
 
 My focus is on developing practical skills in data cleaning, data analysis, exploratory data analysis, SQL querying, data visualization, dashboard development, database management, Excel analytics, and business insights.
 
@@ -222,7 +228,7 @@ I'm continuously learning and building projects in Data Analytics, SQL, Python, 
 
 I'm interested in building practical analytical projects, improving my technical and analytical skills, and collaborating on meaningful projects.
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintoo-kumar-64a3373b5) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumardev) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumardev) | [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chintoo-kumar-64a3373b5) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chintookumaranalytics) | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chintookumardev) | [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintookumar.dev@gmail.com) |
 | :---: | :---: | :---: | :---: |
 
 <br>
