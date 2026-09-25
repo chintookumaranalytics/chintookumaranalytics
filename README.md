@@ -188,12 +188,8 @@ AI Literacy Certification
 
 ---
 
-## 📊 Profile Summary
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintookumaranalytics&theme=tokyonight" width="100%" alt="Chintoo Kumar Profile Details"/> </p>
-	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintookumaranalytics&theme=tokyonight" height="180" alt="Repositories Per Language"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintookumaranalytics&theme=tokyonight" height="180" alt="Most Commit Language"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintookumaranalytics&theme=tokyonight" height="180" alt="GitHub Statistics"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintookumaranalytics&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time - IST"/> </p> <p align="center">
+📊 Profile Summary
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintookumaranalytics&theme=tokyonight" width="100%" alt="Chintoo Kumar Data Analytics Profile Details"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintookumaranalytics&theme=tokyonight" height="180" alt="Top Languages by Repository"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintookumaranalytics&theme=tokyonight" height="180" alt="Top Languages by Commits"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintookumaranalytics&theme=tokyonight" height="180" alt="GitHub Data Analytics Statistics"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintookumaranalytics&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive Time - IST"/> </p> <p align="center">
 
 <strong>🕐 Time Zone: Indian Standard Time (IST) — UTC+05:30</strong>
 
@@ -201,17 +197,9 @@ AI Literacy Certification
 
 ---
 
-## ✍️ Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Developer Quote"/>
-
-</p>
-
-<p align="center">
-
-<em>✨ A fresh developer quote is generated dynamically.</em>
+### ✍️ Data Analytics Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Data Analytics Quote"/> </p> <p align="center">
+<em>📊 Turning data into insights, insights into decisions.</em>
 
 </p>
 
