@@ -8,7 +8,7 @@
 | Portfolio KPI | Count | Definition |
 |---|---:|---|
 | Featured projects | 5 | Projects listed in the profile README |
-| Analytics-focused projects | 4 | Student Data Analysis, SQL Data Analysis, Sales Data Analysis, and Data Reporting & Dashboard Practice |
+| Analytics/reporting projects | 4 | Student Data Analysis, SQL Data Analysis, Sales Data Analysis, and Data Reporting & Dashboard Practice |
 | Database/application project | 1 | Student Management System |
 | Core analytics tool groups | 6 | Data Analytics, Python, SQL & Databases, Excel, Power BI, and Statistics |
 
@@ -36,12 +36,12 @@ xychart-beta
     title "Tool Mentions Across Featured Projects"
     x-axis ["SQL", "Python", "Excel", "Power BI", "MySQL", "Pandas"]
     y-axis "Projects mentioning tool" 0 --> 5
-    bar [4, 3, 3, 2, 2, 2]
+    bar [5, 3, 3, 2, 2, 2]
 ```
 
 | Tool | Projects mentioning it |
 |---|---:|
-| SQL | 4 |
+| SQL | 5 |
 | Python | 3 |
 | Excel | 3 |
 | Power BI | 2 |
@@ -50,7 +50,7 @@ xychart-beta
 
 ## 3. Skills by Area
 
-This chart summarizes the six core skill groups in the README. Values are counts of listed skill terms within each group, not proficiency scores.
+This chart summarizes the six core skill groups in the profile README. Values are counts of listed skill terms, not proficiency scores.
 
 ```mermaid
 xychart-beta
@@ -72,7 +72,7 @@ xychart-beta
 
 ## 5. Key Takeaways
 
-- **SQL is the most frequently mentioned tool** across the featured project descriptions.
+- **SQL is mentioned in all five featured project descriptions.**
 - **Python and Excel** are recurring tools for analysis and reporting workflows.
 - **Power BI and dashboard practice** are represented in sales analysis and reporting/dashboard work.
 - The portfolio currently documents five featured projects across analysis, database work, student records, and reporting.
@@ -80,6 +80,6 @@ xychart-beta
 ## Data Notes
 
 - Source: [Profile README](https://github.com/chintookumaranalytics/chintookumaranalytics/blob/main/README.md).
-- Counts were manually derived from the project and skills descriptions in that README.
+- Counts are derived from the project and skills descriptions in that README.
 - These charts are **portfolio summaries**, not live GitHub activity statistics or business-performance dashboards.
 - To build a true business Power BI-style dashboard (for example, sales trends, profit, KPIs, monthly growth, or student performance), add the underlying CSV/Excel dataset or a project repository containing structured data.
