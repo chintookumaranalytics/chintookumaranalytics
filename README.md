@@ -168,7 +168,7 @@ Academic focus includes database management, programming fundamentals, analytica
 
 **AI Literacy Certification** — *Your Top AI Questions Answered: AI Literacy for Everyone*
 
-[View certifications on LinkedIn](https://www.linkedin.com/in/chintookumardev/details/certifications/)
+[View certifications on LinkedIn](https://www.linkedin.com/in/chintookumaranalytics/details/certifications/)
 
 ---
 
